@@ -1,0 +1,53 @@
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\NITA v2.exe.config
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\NITA v2.exe
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\NITA v2.pdb
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA v2.csprojAssemblyReference.cache
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Controls.Line_Textbox.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.MainFrm.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.PointOfSale.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Properties.Resources.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA v2.csproj.GenerateResource.cache
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA v2.csproj.CoreCompileInputs.cache
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA v2.exe
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA v2.pdb
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Controls.Details_Box.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.Login.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA v2.csproj.CopyComplete
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\Google.Protobuf.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\MySql.Data.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\Renci.SshNet.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\System.Buffers.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\System.Memory.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\Zstandard.Net.dll
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\Google.Protobuf.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\MySql.Data.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\Renci.SshNet.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\System.Buffers.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\System.Memory.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.Menu.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.BatchManager.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.ProductRegister.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.ProductUpdate.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Controls.Dark_List.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.SelectProduct.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Controls.Notification.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.OpenCashier.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.RegisterUser.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.Settings.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.Checkout.resources
+C:\Users\Vinic\source\repos\NITA v2\NITA v2\obj\Debug\NITA_v2.Pages.ThemeManager.resources
